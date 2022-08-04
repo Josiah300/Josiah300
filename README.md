@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josiah300
+- 👋 Hi, I’m Josiah
 - 👀 I’m interested in Front-End and Blockchain Development
 - 🌱 I’m currently learning Javascript and Solidity
 - 💞️ I’m looking to collaborate with Front-End Developers and Blockchain Architects
