@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josiah
 - 👀 I’m interested in Front-End and Blockchain Development
-- 🌱 I’m currently learning Javascript and Solidity
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate with Front-End Developers and Blockchain Architects
 - 📫 How to reach me LinkedIn - https://www.linkedin.com/in/josiah-banjo-86495022b/
 - 🧑‍ I'm a Certified Blockchain Expert, certified by the Blockchain council
